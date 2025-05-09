@@ -1,5 +1,3 @@
-# illumio-ci-workloader-import
-=======
 # Illumio CI Workloader Import
 
 A containerized utility for importing workloads into Illumio PCE (Policy Compute Engine) using the Workloader CLI tool.
